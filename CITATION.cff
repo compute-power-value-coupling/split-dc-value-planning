@@ -1,16 +1,28 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite it as below."
+message: >-
+  If you use this code, please cite it as below.
+  Yuqian Liu and Guojian Sun contributed equally to this work.
+  Peng Sun is the corresponding author.
 title: "Value-driven long-term co-planning of split training and inference data centres (code)"
 authors:
   - family-names: Liu
     given-names: Yuqian
-  - family-names: Sun
-    given-names: Peng
-  - family-names: Yang
-    given-names: Mao
+    affiliation: "Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University), Jilin 132012, China"
   - family-names: Sun
     given-names: Guojian
+    affiliation: "Jiangxi University of Finance and Economics, Nanchang 330013, China"
+  - family-names: Sun
+    given-names: Peng
+    affiliation: "Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University), Jilin 132012, China"
+  - family-names: Yang
+    given-names: Mao
+    affiliation: "Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University), Jilin 132012, China"
   - family-names: Chen
     given-names: Zhe
+    affiliation: "Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University), Jilin 132012, China"
+contact:
+  - family-names: Sun
+    given-names: Peng
+    affiliation: "Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University), Jilin 132012, China"
 version: 1.0.0
 license: MIT
