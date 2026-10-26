@@ -4,6 +4,17 @@ MATLAB code accompanying the manuscript *"Value-driven long-term co-planning of 
 
 The code plans, year by year over a 15-year horizon, investment in training and inference computing, wind and solar generation, western and eastern storage, inter-regional HVDC corridors and direct fibre routes for seven East Data West Computing hubs on a modified IEEE 118-bus system and a seven-node backbone network. Each year's plan is verified by an 8,760-h digital twin.
 
+## Authors and correspondence
+
+Yuqian Liu¹, Guojian Sun², Peng Sun¹, Mao Yang¹ and Zhe Chen¹.
+
+¹ Key Laboratory of Modern Power System Simulation and Control & Renewable Energy Technology, Ministry of Education (Northeast Electric Power University), Jilin 132012, China
+
+² Jiangxi University of Finance and Economics, Nanchang 330013, China
+
+Yuqian Liu and Guojian Sun contributed equally to this work.
+Corresponding author: Peng Sun.
+
 ## Requirements
 
 - MATLAB R2024a with Optimization Toolbox, Deep Learning Toolbox and Statistics and Machine Learning Toolbox
